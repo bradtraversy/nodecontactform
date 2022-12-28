@@ -11,7 +11,7 @@ Simple Node.js/Express app using Nodemailer to send emails
 ## Install Dependencies
 
 ```bash
-npm install 
+npm i 
 ```
 
 ## Run
